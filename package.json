@@ -1,9 +1,3 @@
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "vercel-build": "vite build"
-}
 {
   "name": "cybersafe-work",
   "private": true,
@@ -12,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "vercel-build": "vite build"
   },
   "dependencies": {
     "react": "^19.2.0",
