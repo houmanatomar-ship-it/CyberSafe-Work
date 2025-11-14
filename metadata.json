@@ -1,0 +1,5 @@
+{
+  "name": "CyberSafe@Work",
+  "description": "An interactive web application for cybersecurity awareness, structured into 5 thematic blocks. It includes quizzes, best practices, and an AI-powered 'CyberHelper' to answer user questions.",
+  "requestFramePermissions": []
+}
