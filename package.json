@@ -5,7 +5,7 @@
   "vercel-build": "vite build"
 }
 {
-  "name": "cybersafe@work",
+  "name": "cybersafe-work",
   "private": true,
   "version": "0.0.0",
   "type": "module",
